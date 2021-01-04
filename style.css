@@ -1,0 +1,18 @@
+h1{
+    font-size: 50px;
+  }
+  .name{
+      color: crimson;
+  }
+  h1{
+    font-family: 'Redressed', cursive;
+  }
+  .half-text{
+      width: 40%;
+      float: left;
+      margin-left: 5%;
+      padding-left: 2%;
+  }
+  .half-text img{
+      width: 100%;
+  }
