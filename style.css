@@ -12,7 +12,7 @@
     }
     .half-width{
         width: 40%;
-        float: left;
+        float: right;
         margin-left: 5%;
         padding-left: 2%;
         margin-top: 50px;
@@ -113,7 +113,6 @@
         color: lightslategrey;
         text-shadow: 2px 2px 2px rgba(25, 245, 91, 0.438);
     }
-
 
 
 
