@@ -12,7 +12,7 @@
     }
     .half-width{
         width: 40%;
-        float: right;
+        float: left;
         margin-left: 5%;
         padding-left: 2%;
         margin-top: 50px;
