@@ -23,7 +23,7 @@
     }
     .Top{
        background-repeat: no-repeat;
-        background-image: url(Images/BG.JPG);
+        background-image: none;
         border-radius: 40px;
        
         
