@@ -1,7 +1,7 @@
   body{
       margin: 0;
-  }
-  h1{
+    }
+    h1{
         font-size: 50px;
     }
     .name{
@@ -25,12 +25,6 @@
        background-repeat: no-repeat;
         background-image: url(Images/BG.JPG);
         border-radius: 40px;
-       
-        
-    }
-    #first-paragraph-title{
-        text-shadow: 4px 4px 10px lime;
-
     }
     .dream-area{
         background-repeat: no-repeat;
@@ -40,19 +34,20 @@
     }
     .title-font{
         font-family: 'Noto Serif', serif;
-        color: hsl(234, 84%, 64%);
+        color: hsl(345, 86%, 20%);
         font-weight: 700px;
-        text-shadow: 8px 8px 16px steelblue;
+        text-shadow: 3px 3px 8px steelblue;
     }
     #Paragraph1-font{
         font-family: 'Noto Serif', serif;
-        color: #ee6eb9;
-        text-shadow: 3px 3px 6px hsl(234, 84%, 64%);
+        color: hsl(143, 79%, 68%);
+        text-shadow: 2px 2px 4px #0f0c0e;
+        color ;
     }
     #Paragraph2-font{
         font-family: 'Noto Serif', serif;
         color: rgb(66, 73, 80);
-        text-shadow: 3px 3px 5px 7px rgb(255, 12, 12);
+        text-shadow: 1px 1px 3px rgb(252, 64, 64);
     }
     section{
         height: 500px;
@@ -116,6 +111,9 @@
         font-size: 30px;
         color: lightslategrey;
         text-shadow: 2px 2px 2px rgba(25, 245, 91, 0.438);
+    }
+     .my-images{
+        image-rendering: auto;
     }
 
 
