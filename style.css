@@ -19,6 +19,7 @@
     }
     .half-width img{
         width: 100%;
+        image-resolution: 700px 500px;
         
     }
     .Top{
@@ -102,20 +103,16 @@
     }
     .last-paragraph{
         font-family: 'Noto Serif', serif;
-        color: rgb(66, 73, 80);
-        text-shadow: slategrey;
+        color: #aad0f7;
+        text-shadow: 2px 2px 2px #0d83fa;
         text-align: left;
+
     }
     footer{
         text-align: center;
         font-size: 30px;
         color: lightslategrey;
         text-shadow: 2px 2px 2px rgba(25, 245, 91, 0.438);
-    }
-     .my-images{
-        image-rendering: auto;
-    }
-
 
 
 
