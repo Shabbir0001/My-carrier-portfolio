@@ -2,7 +2,7 @@
       margin: 0;
     }
     h1{
-        font-size: 50px;
+        font-size: 40px;
     }
     .name{
         color: crimson;
@@ -46,8 +46,8 @@
     }
     #Paragraph2-font{
         font-family: 'Noto Serif', serif;
-        color: rgb(66, 73, 80);
-        text-shadow: 1px 1px 3px rgb(252, 64, 64);
+        color: rgba(66, 73, 80, 0.699);
+        text-shadow: 2px 2px 5px #2f2530;
     }
     section{
         height: 500px;
@@ -74,28 +74,26 @@
     }
     .Single-bold-word{
         font-family: 'Noto Serif', serif;
-        color: rgb(205, 235, 177);
+        color: rgb(175, 31, 31);
         padding-left: 20px;
         padding-top: 20px;
-        text-shadow: 4px 4px 8px rgb(247, 26, 162);
+        text-shadow: 4px 4px 8px rgb(48, 36, 43);
     }
     .experience-area{
     background-image: radial-gradient(rgb(252, 138, 138), rgb(111, 111, 250));
     background-repeat: no-repeat;
-    border-radius: 0px;
-    
-    
     }
     #full-stack{
         border-left: 7px solid;
         border-image: linear-gradient(lightsalmon, rgb(71, 255, 95));
         border-image-slice: 1;
-
+        background-color: rgba(0, 0, 255, 0.363) 
     }
     #baby-web{
         border-left: 7px solid;
         border-image: linear-gradient(lightsalmon, rgb(71, 255, 95));
         border-image-slice: 1;
+        background-color: rgba(0, 0, 255, 0.363) ;
     }
     .last-title{
         color: #fd9824;
@@ -103,8 +101,8 @@
     }
     .last-paragraph{
         font-family: 'Noto Serif', serif;
-        color: #aad0f7;
-        text-shadow: 2px 2px 2px #0d83fa;
+        color: #2b2f33;
+        text-shadow: 2px 2px 3px #fbfbfc;
         text-align: left;
 
     }
@@ -113,6 +111,7 @@
         font-size: 30px;
         color: lightslategrey;
         text-shadow: 2px 2px 2px rgba(25, 245, 91, 0.438);
+    }
 
 
 
